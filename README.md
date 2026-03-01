@@ -38,5 +38,12 @@ The Preprocessor Definitions can be found in `Configuration Properties > C/C++ >
 * `_DEBUG` Debug
 * `_DEBUG_MENUS_ENABLED` In-game debug menu
 * `_LARGE_WORLDS` Large worlds (?)
-* `__FINAL_BUILD` Final build (?)
+* `_FINAL_BUILD` Final build (?)
 * `_CONTENT_PACKAGE` Content package (?)
+* `_WINDOWS64` Build for Windows 64
+* `_XBOX` Build for Xbox 360 (?)
+* `__PS3__` Build for PS3
+* `__PSVITA__` Build for PS Vita
+* `__ORBIS__` Build for PS4
+* `_XBOX_ONE` Build for Xbox One (?)
+* `_DURANGO` Build for Xbox One (?)
