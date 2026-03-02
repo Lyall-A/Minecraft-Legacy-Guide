@@ -16,6 +16,6 @@ now it gives the same error but for `XboxMedia\584111F70AAAAAAA`, this file does
 
 now it gives the same error but for `XboxMedia\ZXP\TMSFiles.xzp`, i copied this file from `\Xbox\Title Update\TitleUpdate\Package\res\TMS\TMSFiles.xzp`
 
-it now compiles and tries to automatically upload to your xbox 360 dev kit, im not running devkit firmware and i cant be bothered dealing with that
+it now compiles and tries to automatically upload to your xbox 360 dev kit, i cant get it running probably because im not running devkit firmware?
 
 it is possible to run a pre-made binary from somewhere like `Xbox\Title Update\TitleUpdate\Package`
