@@ -1,4 +1,6 @@
 # Guide for building Minecraft Legacy Console Edition on Windows
+This is a simple guide on building MCLE for Windows.
+Also check out [my fork](https://github.com/Lyall-A/Minecraft-Legacy-Guide) which includes guides on building for Xbox 360, if your interested in that
 
 ## Prerequisites
 * Microsoft Visual Studio 2012
@@ -25,7 +27,7 @@ By default, running the binary directly will cause a crash, to fix this some fil
 * `Windows64/GameHDD` Random world left in source
 * `Windows64/GameConfig` Game configs (maybe different from default?)
 
-There will probably be some unneeded files that can later be deleted (like source files)
+You can also run `Fix Build.bat` to automatically do this
 
 ## Combining DLC's
 DLC's from other platforms can be added by copying their `DLC` folder to `Windows64`
